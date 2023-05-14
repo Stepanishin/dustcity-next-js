@@ -15,6 +15,9 @@ module.exports = {
         "custom-color-yellow": "#ffcc15",
         "color-color-yellow-hover": "#cda100",
       },
+      fontFamily: {
+        supermolot: ["TTSupermolorNeue-CondRegular", "sans-serif"],
+      },
     },
   },
   plugins: [],

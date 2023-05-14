@@ -21,7 +21,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${inter.className} bg-custom-color-bg text-custom-color-font`}
+        className={`${inter.className} bg-custom-color-bg text-custom-color-font font-supermolot `}
       >
         <div className="flex flex-col max-w-screen-xl mx-auto my-0 p-5 ">
           <header className="flex justify-between items-center py-2 gap-4">
