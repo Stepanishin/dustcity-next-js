@@ -30,8 +30,8 @@ const RoadMap = () => {
                 <Image
                   src="/RoadMap.png"
                   alt="RoadMap"
-                  width={1920}
-                  height={1080}
+                  width={4096}
+                  height={3074}
                 />
               </TransformComponent>
 
