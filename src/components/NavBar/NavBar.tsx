@@ -25,7 +25,11 @@ const NavBar = ({}) => {
         return (
           <li
             key={link.id}
-            className={isActive ? "text-custom-color-yellow" : ""}
+            className={
+              isActive
+                ? "text-custom-color-yellow font-semibold "
+                : "font-semibold"
+            }
           >
             <Link href={link.href}>{link.label}</Link>
           </li>

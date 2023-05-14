@@ -4,7 +4,7 @@ const SocialList = ({}) => {
   return (
     <ul className="flex justify-center gap-10 items-center ">
       <li>
-        <a href="https://dustcity.world/">
+        <a href="https://discord.com/invite/dustcity/">
           <Image
             src="./icon-discord.svg"
             alt="discord"
@@ -14,7 +14,7 @@ const SocialList = ({}) => {
         </a>
       </li>
       <li>
-        <a href="https://dustcity.world/">
+        <a href="https://twitter.com/DustCityNFT/">
           <Image
             src="./icon-twitter.svg"
             alt="twitter"
@@ -24,7 +24,7 @@ const SocialList = ({}) => {
         </a>
       </li>
       <li>
-        <a href="https://dustcity.world/">
+        <a href="https://magiceden.io/marketplace/dustcity/">
           <Image
             src="./icon-magiceden.svg"
             alt="magiceden"

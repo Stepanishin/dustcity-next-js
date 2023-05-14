@@ -5,27 +5,27 @@ const ProjectList = ({}) => {
   const ProjectList: ProjectPropsInterface[] = [
     {
       title: "Evolution",
-      link: "https://dustcity.world/",
+      link: "https://evolution.dustcity.world/",
     },
     {
       title: "Teleport",
-      link: "https://dustcity.world/",
+      link: "https://teleport.dustcity.world/",
     },
     {
       title: "Builder",
-      link: "https://dustcity.world/",
+      link: "https://builder.dustcity.world/",
     },
     {
       title: "Court",
-      link: "https://dustcity.world/",
+      link: "https://court.dustcity.world/",
     },
     {
       title: "Dust City Stacking",
-      link: "https://dustcity.world/",
+      link: "https://staking.dustcity.world/",
     },
     {
       title: "Rektville Stacking",
-      link: "https://dustcity.world/",
+      link: "https://rektville.dustcity.world/",
     },
   ];
 
