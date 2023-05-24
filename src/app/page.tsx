@@ -1,4 +1,6 @@
 import ProjectList from "@/components/ProjectList/ProjectList";
+import TokenSection from "@/components/TokenSection/TokenSection";
+import TwitterSection from "@/components/TwitterSection/TwitterSection";
 
 export default function Home() {
   return (
@@ -18,6 +20,8 @@ export default function Home() {
         </a>
       </div>
       <ProjectList />
+      <TokenSection />
+      <TwitterSection />
     </main>
   );
 }
